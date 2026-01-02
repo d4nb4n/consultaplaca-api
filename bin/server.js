@@ -1,4 +1,4 @@
-const logger = require('simple-node-logger').createSimpleLogger();
+const logger = console;
 
 const app = require('../src/app');
 
